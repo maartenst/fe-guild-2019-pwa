@@ -1,6 +1,5 @@
 const CACHE_STATIC_NAME = 'static.v1';
 const URLS_TO_PRECACHE = [
-    '/',
     'index.html',
     'offline.html',
     'src/js/app.js',
