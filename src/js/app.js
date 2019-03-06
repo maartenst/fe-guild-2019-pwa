@@ -81,4 +81,6 @@ window.addEventListener('load', () => {
                 console.log('ServiceWorker registration failed: ', err);
             });
     }
+
+
 });
